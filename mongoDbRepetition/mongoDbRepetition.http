@@ -1,0 +1,6 @@
+@mongoDbRepetition_HostAddress = http://localhost:5097
+
+GET {{mongoDbRepetition_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
